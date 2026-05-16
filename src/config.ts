@@ -37,6 +37,19 @@ export const siteConfig: SiteConfig = {
       sizes: "32x32", // (Optional) Size of the favicon, set only if you have favicons of different sizes
     },
   ],
+  comment: {
+    // ← 여기 추가!
+    enable: true,
+    type: "giscus",
+    giscus: {
+      repo: "csafte/csafte.github.io",
+      repoId: "R_kgDOSfVJaQ",
+      category: "Announcements",
+      categoryId: "DIC_kwDOSfVJac4C9MiX",
+      theme: "preferred_color_scheme",
+      lang: "ko",
+    },
+  },
 };
 
 export const navBarConfig: NavBarConfig = {
