@@ -1,9 +1,16 @@
 # About
-This is the demo site for [Fuwari](https://github.com/saicaca/fuwari).
 
-::github{repo="saicaca/fuwari"}
+## 인생 책
+ - 어린왕자
+ - 파친코
+ - 이방인
+ - 시즈프 신화 
 
-> ### Sources of images used in this site
-> - [Unsplash](https://unsplash.com/)
-> - [星と少女](https://www.pixiv.net/artworks/108916539) by [Stella](https://www.pixiv.net/users/93273965)
-> - [Rabbit - v1.4 Showcase](https://civitai.com/posts/586908) by [Rabbit_YourMajesty](https://civitai.com/user/Rabbit_YourMajesty)
+## 인생 게임
+ - Factorio
+ - Minecraft
+ - Assassin's Creed: The Ezio Collection
+ - Pokemon(Black)
+
+\[Web발신\]당신은5세대를존중해야한다
+5세대는156종의포켓몬이추가되었고최초로2편이출시되었으며동시에1천만장이넘게판매되었다또한이상과진실이라는무겁고진중한스토리로변화하였으며N이라는최고인기캐릭터와심오한주제를담아내어높은평가를받았다판매량이낮은것은XY에대한자격지심이아니라DS에서이룰수있는모든것을이루었기에3D를완전정복하기위해쉬어간것이지부족한것이아니다너는하나를존중해야한다…\[더보기\]
