@@ -33,7 +33,6 @@ export const siteConfig: SiteConfig = {
     // Leave this array empty to use the default favicon
     {
       src: "favicon/favicon.jpg", // Path of the favicon, relative to the /public directory
-      
     },
   ],
   comment: {
@@ -68,11 +67,6 @@ export const profileConfig: ProfileConfig = {
   name: "Csafte",
   bio: "책과 게임, 게임 개발 중심 블로그 입니다",
   links: [
-    {
-      name: "Steam",
-      icon: "fa6-brands:steam",
-      url: "https://steamcommunity.com/profiles/76561199487993960/",
-    },
     {
       name: "GitHub",
       icon: "fa6-brands:github",
